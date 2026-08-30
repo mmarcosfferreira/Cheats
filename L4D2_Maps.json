@@ -1,0 +1,22 @@
+[
+  {
+    "Args": "+map c1m4_atrium +mp_gamemode survival +sv_cheats 1",
+    "Name": "Survival Atrium (F5)"
+  },
+  {
+    "Args": "+map l4d2_tank_challenge_15_rounds +sv_cheats 1",
+    "Name": "Tank Challenge 15 R (F4)"
+  },
+  {
+    "Args": "+map c1m4_atrium +mp_gamemode survival +sv_cheats 1",
+    "Name": "c2m5_concert"
+  },
+  {
+    "Name": "c1m1_hotel",
+    "Args": "+map c1m4_atrium +mp_gamemode survival +sv_cheats 1"
+  },
+  {
+    "Args": "+map c1m4_atrium +mp_gamemode survival +sv_cheats 1",
+    "Name": "c1m2_streets"
+  }
+]

@@ -1,0 +1,16 @@
+{
+    "LastClean":  {
+                      "value":  "\/Date(1779842122742)\/",
+                      "DisplayHint":  2,
+                      "DateTime":  "terça-feira, 26 de maio de 2026 21:35:22"
+                  },
+    "MonitorEnabled":  false,
+    "RAMThreshold":  95,
+    "SteamPath":  "C:\\Program Files (x86)\\Steam",
+    "AutoStartMonitor":  true,
+    "RAMFree":  1.06,
+    "RAMPercent":  91.1,
+    "RAMUsage":  10.85,
+    "LogFile":  "C:\\Users\\mf\\AppData\\Local\\Temp\\L4D2Optimizer_20260429.log",
+    "RAMTotal":  11.91
+}

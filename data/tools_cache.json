@@ -1,0 +1,8 @@
+﻿{
+    "LocalToolPath":  "C:\\ERP_GESTAO_REDUZIDA",
+    "NodePath":  "C:\\Program Files\\nodejs\\node.exe",
+    "YtDlpPath":  "C:\\ERP_GESTAO_REDUZIDA\\yt-dlp.exe",
+    "FFmpegPath":  "C:\\ERP_GESTAO_REDUZIDA\\ffmpeg.exe",
+    "Initialized":  false,
+    "FFprobePath":  "C:\\ERP_GESTAO_REDUZIDA\\ffprobe.exe"
+}

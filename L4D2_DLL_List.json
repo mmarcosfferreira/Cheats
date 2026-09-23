@@ -1,18 +1,18 @@
 ﻿[
     {
-        "Path":  "C:\\cheat\\Heaven-beta_01.dll",
-        "Enabled":  true
-    },
-    {
-        "Path":  "C:\\cheat\\RZImGuiV4.dll",
-        "Enabled":  false
-    },
-    {
         "Path":  "C:\\cheat\\Heaven beta 1.0.4 Prerelease.dll",
         "Enabled":  false
     },
     {
-        "Path":  "C:\\cheat\\UwUHax_[unknowncheats.me]_.dll",
+        "Path":  "C:\\cheat\\Source\\Debug\\de_stroyer.dll",
+        "Enabled":  false
+    },
+    {
+        "Path":  "C:\\cheat\\RazerHack_[unknowncheats.me]_V3_fonte_codigo\\RZ\\DLL\\funcionais\\UwUHax_[unknowncheats.me]_.dll",
+        "Enabled":  false
+    },
+    {
+        "Path":  "C:\\cheat\\RZL4D2_[unknowncheats.me]_.dll",
         "Enabled":  false
     }
 ]

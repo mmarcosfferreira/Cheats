@@ -48,3 +48,6 @@ data/gemini_config.json
 data/*_config.json
 data/*config*.json
 !data/music_library.json
+
+# Auto-protecao ERP — grandes/sensiveis
+Dire Straits - So Far Away.mp3

@@ -1,1 +1,0 @@
-$err = $null; [System.Management.Automation.Language.Parser]::ParseInput((Get-Content -Raw "ERP_GESTAO_REDUZIDA.ps1"), [ref]$null, [ref]$err); if ($err) { $err | Select-Object -First 3 -Property Message, Extent | Format-List } else { Write-Host "SUCCESS" }
